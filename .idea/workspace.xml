@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68c22e73-92cb-4b8f-a3c4-1293136208d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HandTrackingMin.py" beforeDir="false" afterPath="$PROJECT_DIR$/HandTrackingMin.py" afterDir="false" />
-    </list>
+    <list default="true" id="68c22e73-92cb-4b8f-a3c4-1293136208d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
