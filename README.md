@@ -15,6 +15,12 @@ This project implements a Gesture Volume Controller using OpenCV and MediaPipe l
 - MediaPipe
 - NumPy
 
+## Demo
+
+
+[](https://github.com/Vaibhav-kesarwani/Gesture-volume-detector/assets/116189379/f838d78f-b4df-4172-b7c7-54a01e25a2d5)
+
+
 
 ## Usage
 1. Run the `gesture_volume_controller.py` script.
