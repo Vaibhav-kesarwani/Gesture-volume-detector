@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68c22e73-92cb-4b8f-a3c4-1293136208d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/VolumeHandControl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Hand-Tracing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hand-Tracing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeHandControl.py" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeHandControl.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
