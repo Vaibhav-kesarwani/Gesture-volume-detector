@@ -23,7 +23,7 @@ This project implements a Gesture Volume Controller using OpenCV and MediaPipe l
 
 
 ## Usage
-1. Run the `gesture_volume_controller.py` script.
+1. Run the `VolumeHandControl.py` script.
 2. Position your hand in front of the webcam.
 3. Make predefined gestures to control volume adjustments.
 4. Enjoy controlling the volume with gestures!
@@ -64,7 +64,7 @@ pip install -r
 ### 4. Run the App
 
 ```bash
-python main.py
+python VolumeHandControl.py
 ```
 
 ## Contributing
